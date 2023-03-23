@@ -1,0 +1,2 @@
+# deezy
+deezy javascript sdk
